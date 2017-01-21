@@ -1,0 +1,19 @@
+{
+  "name": "es2015-babel-karma-jasmine-eslint-webpack",
+  "version": "0.0.1",
+  "description": "A template for modern js development and testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es2015",
+    "babel",
+    "karma",
+    "jasmine",
+    "eslint",
+    "webpack"
+  ],
+  "author": "Gerry Power",
+  "license": "MIT"
+}
