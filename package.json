@@ -15,5 +15,11 @@
     "webpack"
   ],
   "author": "Gerry Power",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
