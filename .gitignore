@@ -70,4 +70,7 @@ jspm_packages
 dist
 builds
 
+# Ignore windows vim backup files
+*~
+
 # End of https://www.gitignore.io/api/macos,node
